@@ -21,19 +21,19 @@ window.onload = function(){
 		
 		}
 		oBottomaaDiv[1].onmouseover =function(){
-			this.style.background = 'url(img/index/xuanku2.png) no-repeat';
+			this.style.background = 'url(img/index/xuanku2.png) no-repeat left center';
 			oBottomaaDiv[2].style.background = 'url(img/index/six2.png) no-repeat'
 		}
 		oBottomaaDiv[1].onmouseout =function(){
-			this.style.background = 'url(img/index/xuanku.png) no-repeat';
+			this.style.background = 'url(img/index/xuanku.png) no-repeat left center';
 			oBottomaaDiv[2].style.background = 'url(img/index/six.png) no-repeat'
 		}
 		oBottomaaDiv[3].onmouseover =function(){
-			this.style.background = 'url(img/index/wenzi2.png) no-repeat';
+			this.style.background = 'url(img/index/wenzi2.png) no-repeat right center';
 			oBottomaaDiv[2].style.background = 'url(img/index/six2.png) no-repeat'
 		}
 		oBottomaaDiv[3].onmouseout =function(){
-			this.style.background = 'url(img/index/wenzi.png) no-repeat';
+			this.style.background = 'url(img/index/wenzi.png) no-repeat right center';
 			oBottomaaDiv[2].style.background = 'url(img/index/six.png) no-repeat'
 		}
 
