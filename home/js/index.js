@@ -41,14 +41,14 @@ window.onload = function(){
 			oBgbutdio.src="dio/sousou.mp3";
 			oBgbutdio.autoplay="autoplay";
 			setTimeout(function(){
-				window.location.href="cool.html";
+				window.location.href="/cool/";
 			},500)
 		}
 		oBottomaaDiv[3].onclick = function(){
 			oBgbutdio.src="dio/sousou.mp3";
 			oBgbutdio.autoplay="autoplay";
 			setTimeout(function(){
-				window.location.href="sim.html";
+				window.location.href="/sim/";
 			},500)
 		}
 
