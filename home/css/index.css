@@ -26,6 +26,19 @@ body {width:100%;height:100%;font-size:12px; font-family:"微软雅黑";overflow
 #bottom .cen{position:absolute;left:227px;top:30px;width:63px;height:65px;background:url(../img/index/six.png) no-repeat;-webkit-transition:200ms;-moz-transition:200ms;-o-transition:200ms;transition:200ms;}
 #bottom .txt{width:220px;height:107px;background:url(../img/index/wenzi.png) no-repeat right center;position:absolute;right:14px;top:25px;-webkit-transition:200ms;-moz-transition:200ms;-o-transition:200ms;transition:200ms;cursor:pointer;}
 #bottom .xk a,#bottom .txt a{width:194px;height:107px;display:block;}
+#blog {
+    position: absolute;
+    left: 50%;
+    bottom: 50px;
+    padding: 20px;
+    transform: translateX(-50%);
+	text-align: center;
+}
+
+#blog .link{
+    font-size: 20px;
+    color: rgb(255, 255, 255)
+}
 
 
 

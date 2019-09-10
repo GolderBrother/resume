@@ -8,13 +8,13 @@ window.onload = function(){
 			if( oBgdio.muted==false){
 				aSpan[0].style.left= '0px';
 				aSpan[1].style.left= '0px';
-				aSpan[1].style.background= 'url(img/index/jingyin.png)';
+				aSpan[1].style.background= 'url(./img/index/jingyin.png)';
 				oBgdio.muted = 1;
 				oBgbutdio.muted =1;
 			}else{
 				aSpan[0].style.left= '32px';
 				aSpan[1].style.left= '32px';
-				aSpan[1].style.background= 'url(img/index/bofang.png)';
+				aSpan[1].style.background= 'url(./img/index/bofang.png)';
 				oBgdio.muted = 0;
 				oBgbutdio.muted =0;
 			}

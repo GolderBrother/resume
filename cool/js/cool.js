@@ -323,9 +323,6 @@ window.onload = function(){
 				e.preventDefault();
 				oMask.style.display = 'none';
 				oCase.style.display = 'none';
-					for(var i=0;i<oCaseLi.length;i++){
-						oCaseLi[i].style.display = 'none';
-					}
 			}, false);
 		}
 

@@ -28,6 +28,16 @@ body{background:url( ../img/body1.jpg ) repeat-X,url( ../img/body2.jpg ) repeat-
 #nav ul li a{color:#00ace3;}
 #nav ul li a:hover{color:#f9f9f9;}
 #nav ul li span{text-align:right;margin:0px 33px;}
+#nav .home{
+	position: fixed;width: 140px;height: 32px;
+	left: 50px;
+	top: 20px;
+	z-index: 999;
+	/* background: url(../img/a.png) no-repeat 0px -40px; */
+	display: block;
+	color: rgb(0, 172, 227);
+	font-size: 16px;
+}
 #nav .kx{width:140px;height:32px;position:fixed;right:20px;top:20px;z-index:999;background:url(../img/a.png) no-repeat 0px -120px;display:block;}
 #nav .kx:hover{background-position:0px -80px; }
 /*页头导航结束*/
