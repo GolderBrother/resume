@@ -21,7 +21,7 @@ body {width:100%;height:2134px;font-size:12px; font-family:"微软雅黑";positi
 .fl-l{float:left;} .fl-r{float:right;}
 /* end reset */
 /*页头导航开始*/
-body{background:url( ../img/body1.jpg ) repeat-X,url( ../img/body2.jpg ) repeat-X bottom;}
+body{background:url( ../img/body1.jpg ) repeat-X,url( ../img/body2.jpg ) repeat-X 0 99%;}
 #nav{width:553px;height:60px;margin:0px auto;background:url(../img/topbg.png) no-repeat;}
 #nav ul{width:360px;height:45px;line-height:45px;margin:0px auto;}
 #nav ul li{height:45px;float:left;font-size:14px;color:#00ace3;}
