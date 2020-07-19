@@ -801,7 +801,7 @@ transition:2s;
 #xxbg.hover #xxbg2{height:400px;}
 #xxbg1 .svg3{width:558px;height:400px;margin-top:145px;position:absolute;left:0px;top:0px;z-index:-1; }
 #xxbg1 .xxtop{width:558px;height:242px;background:url(../img/cool/xxbg.png) no-repeat;margin:20px auto 0px;z-index:-99;}
-#xxbg1 .xxtop .left{width:144px;height:184px;margin:0px 65px;padding-top:20px;float:left;overflow:hidden;}
+#xxbg1 .xxtop .left{width:144px;height:184px;margin:0px 55px;padding-top:20px;float:left;overflow:hidden;}
 #xxbg1 .xxtop .left .circle{width:122px;height:122px;background:url(../img/cool/circle.png) no-repeat,url(../img/cool/circle2.png) no-repeat,url(../img/cool/circle3.png) no-repeat,url(../img/cool/circle4.png) no-repeat,url(../img/cool/circle5.png) no-repeat,url(../img/cool/circle6.png) no-repeat,url(../img/cool/circle7.png) no-repeat,url(../img/cool/circle8.png) no-repeat;margin:0px auto;position:relative;
 -webkit-animation:5s xxbghover linear infinite;
 -moz-animation:5s xxbghover linear infinite;
@@ -809,7 +809,7 @@ transition:2s;
 -ms-animation:5s xxbghover linear infinite;
 animation:5s xxbghover linear infinite;
 }
-#xxbg1 .xxtop .left .circle1{width:90px;height:90px;border:5px solid #0071b1;border-radius:50%;position:absolute;left:87px;top:196px;}
+#xxbg1 .xxtop .left .circle1{width:90px;height:90px;border:5px solid #0071b1;border-radius:50%;position:absolute;left:77px;top:196px;}
 #xxbg1 .xxtop .left .circle1 img{width:90px;height:90px;border-radius:50%;}
 #xxbg1 .xxtop .left .cletxt{width:122px;height:45px;margin:100px auto 0px;text-align:center;
 -webkit-transition:1s 0.5s;
@@ -821,8 +821,8 @@ transition:1s 0.5s;
 #xxbg1.hover .xxtop .left .cletxt{margin:10px auto 0px;}
 #xxbg1 .xxtop .left .cletxt p:nth-of-type(1){color:#fff;font-size:20px;}
 #xxbg1 .xxtop .left .cletxt p:nth-of-type(2){color:#289fd6;font-size:14px;}
-#xxbg1 .xxtop .right{width:250px;height:180px;color:#289fd6;float:left;margin-top:35px;position:relative;overflow:hidden;}
-#xxbg1 .xxtop .right p{width:250px;height:20px;font-size:14px;margin-bottom:5px;position:absolute;left:300px;top:0px;}
+#xxbg1 .xxtop .right{width:280px;height:210px;color:#289fd6;float:left;margin-top:25px;position:relative;overflow:hidden;}
+#xxbg1 .xxtop .right p{width:280px;height:20px;font-size:14px;margin-bottom:5px;position:absolute;left:300px;top:0px;}
 #xxbg1 .xxtop .right p span{color:#fff;}
 #xxbg1 .xxtop .right p:nth-of-type(1){top:0px;}
 #xxbg1 .xxtop .right p:nth-of-type(2){top:25px;}
@@ -831,14 +831,16 @@ transition:1s 0.5s;
 #xxbg1 .xxtop .right p:nth-of-type(5){top:100px;}
 #xxbg1 .xxtop .right p:nth-of-type(6){top:125px;}
 #xxbg1 .xxtop .right p:nth-of-type(7){top:150px;}
+#xxbg1 .xxtop .right p:nth-of-type(8){top:175px;}
 
-#xxbg1.hover .xxtop .right p:nth-of-type(1){left:0px;-webkit-transition:0.5s 700ms;-moz-transition:0.5s 700ms;-ms-transition:0.5s 700ms;-o-transition:0.5s 700ms;transition:0.5s 700ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(2){left:0px;-webkit-transition:0.5s 800ms;-moz-transition:0.5s 800ms;-ms-transition:0.5s 800ms;-o-transition:0.5s 800ms;transition:0.5s 800ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(3){left:0px;-webkit-transition:0.5s 900ms;-moz-transition:0.5s 900ms;-ms-transition:0.5s 900ms;-o-transition:0.5s 900ms;transition:0.5s 900ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(4){left:0px;-webkit-transition:0.5s 1000ms;-moz-transition:0.5s 1000ms;-o-transition:0.5s 1000ms;-ms-transition:0.5s 1000ms;transition:0.5s 1000ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(5){left:0px;-webkit-transition:0.5s 1100ms;-moz-transition:0.5s 1100ms;-o-transition:0.5s 1100ms;-ms-transition:0.5s 1100ms;transition:0.5s 1100ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(6){left:0px;-webkit-transition:0.5s 1200ms;-moz-transition:0.5s 1200ms;-o-transition:0.5s 1200ms;-ms-transition:0.5s 1200ms;transition:0.5s 1200ms;}
-#xxbg1.hover .xxtop .right p:nth-of-type(7){left:0px;-webkit-transition:0.5s 1300ms;-moz-transition:0.5s 1300ms;-o-transition:0.5s 1300ms;-ms-transition:0.5s 1300ms;transition:0.5s 1300ms;}
+/* #xxbg1.hover .xxtop .right p:nth-of-type(1){left:0px;-webkit-transition:0.5s 700ms;-moz-transition:0.5s 700ms;-ms-transition:0.5s 700ms;-o-transition:0.5s 700ms;transition:0.5s 700ms;} */
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 800ms;-moz-transition:0.5s 800ms;-ms-transition:0.5s 800ms;-o-transition:0.5s 800ms;transition:0.5s 800ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 900ms;-moz-transition:0.5s 900ms;-ms-transition:0.5s 900ms;-o-transition:0.5s 900ms;transition:0.5s 900ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 1000ms;-moz-transition:0.5s 1000ms;-o-transition:0.5s 1000ms;-ms-transition:0.5s 1000ms;transition:0.5s 1000ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 1100ms;-moz-transition:0.5s 1100ms;-o-transition:0.5s 1100ms;-ms-transition:0.5s 1100ms;transition:0.5s 1100ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 1200ms;-moz-transition:0.5s 1200ms;-o-transition:0.5s 1200ms;-ms-transition:0.5s 1200ms;transition:0.5s 1200ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 1300ms;-moz-transition:0.5s 1300ms;-o-transition:0.5s 1300ms;-ms-transition:0.5s 1300ms;transition:0.5s 1300ms;}
+#xxbg1.hover .xxtop .right p{left:0px;-webkit-transition:0.5s 1300ms;-moz-transition:0.5s 1300ms;-o-transition:0.5s 1300ms;-ms-transition:0.5s 1300ms;transition:0.5s 1300ms;}
 
 
 #xxbg1 .center{width:558px;height:27px;margin:7px auto 0px;position:relative;z-index:2;}
